@@ -116,3 +116,6 @@ cfg.tmp.json
 # OS generated files #
 .DS_Store
 .DS_Store?
+
+# Packages generated
+package-*.yaml
